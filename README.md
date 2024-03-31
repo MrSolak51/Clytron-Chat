@@ -1,1 +1,1 @@
-You Read me XD
+Server çalıştırmak için console kullanmanız daha faydalı olur.
