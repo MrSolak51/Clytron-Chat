@@ -29,8 +29,8 @@
            <string/>
           </property>
           <property name="icon">
-           <iconset theme="document-send">
-            <normaloff>.</normaloff>.</iconset>
+           <iconset resource="res.qrc">
+            <normaloff>:/new/logo/send.png</normaloff>:/new/logo/send.png</iconset>
           </property>
           <property name="shortcut">
            <string>Return</string>
@@ -96,7 +96,7 @@
      <x>0</x>
      <y>0</y>
      <width>601</width>
-     <height>19</height>
+     <height>26</height>
     </rect>
    </property>
   </widget>
