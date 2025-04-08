@@ -1,0 +1,10 @@
+debug/login.o
+debug/main.o
+debug/mainwindow.o
+debug/receviermessage.o
+debug/sendermessage.o
+debug/qrc_Resources.o
+debug/moc_login.o
+debug/moc_mainwindow.o
+debug/moc_receviermessage.o
+debug/moc_sendermessage.o
